@@ -53,7 +53,7 @@ This project presents an interactive **Sales Analytics Dashboard** built using *
 
 # Dashboard Preview
 
-![Dashboard](Dashboard Images/dashboard.png)
+![Dashboard](Dashboard Images/image.png)
 
 ---
 
